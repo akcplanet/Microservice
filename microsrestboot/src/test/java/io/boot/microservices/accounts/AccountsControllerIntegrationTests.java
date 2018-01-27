@@ -15,7 +15,7 @@ import io.boot.microservices.services.accounts.AccountsServer;
  * client code. Allows the test to use the same configuration as the
  * <code>AccountsServer</code> would.
  * 
- * @author Paul Chapman
+ * @author Amit Chaudhary
  *
  */
 @SpringBootApplication

@@ -13,7 +13,7 @@ import io.boot.microservices.exceptions.AccountNotFoundException;
 /**
  * A RESTFul controller for accessing account information.
  * 
- * @author Paul Chapman
+ * @author Amit Chaudhary
  */
 @RestController
 public class AccountsController {

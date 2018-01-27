@@ -17,7 +17,7 @@ import io.boot.microservices.exceptions.AccountNotFoundException;
 /**
  * Hide the access to the microservice inside this local service.
  * 
- * @author Paul Chapman
+ * @author Amit Chaudhary
  */
 @Service
 public class WebAccountsService {

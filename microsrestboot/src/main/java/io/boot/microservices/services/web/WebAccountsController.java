@@ -20,7 +20,7 @@ import io.boot.microservices.services.web.Account;
  * Client controller, fetches Account info from the microservice via
  * {@link WebAccountsService}.
  * 
- * @author Paul Chapman
+ * @author Amit Chaudhary
  */
 @Controller
 public class WebAccountsController {
